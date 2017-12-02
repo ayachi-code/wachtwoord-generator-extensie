@@ -1,0 +1,23 @@
+body {
+  background-image: url("/public/extra/images.jpg");
+}
+
+
+
+h1 {
+  color: red;
+}
+
+
+#a {
+  font-size: 20px;
+  color: black;
+  background-color: lightblue;
+}
+
+
+#wachtwoord {
+  font-size: 20px;
+  color: black;
+  background-color: lightblue;
+}
